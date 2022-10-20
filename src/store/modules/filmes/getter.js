@@ -1,0 +1,1 @@
+export const filmes = (state) => state.filmes
